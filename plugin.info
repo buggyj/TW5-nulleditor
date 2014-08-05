@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/bj/nulleditor",
+	"description": "null editor",
+	"author": "JeffreyWilkinson",
+	"version": "0.0.0",
+	"core-version": ">=5.0.10",
+	"source": "https://github.com/buggyj/TW5-nulleditor",
+	"plugin-type": "plugin"
+}
