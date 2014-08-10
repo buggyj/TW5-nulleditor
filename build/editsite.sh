@@ -35,8 +35,8 @@ rm $TW5_BUILD_OUTPUT/static/*
 
 
 # codemirrordemo.html: wiki to demo codemirror plugin
-rm tiddlywiki.info
-ln -s  demo/tiddlywiki.info.web tiddlywiki.info 
+rm demo/tiddlywiki.info
+ln -s  tiddlywiki.info.web demo/tiddlywiki.info 
 node ../../../../tiddlywiki.js \
 	./demo \
 	--verbose \
