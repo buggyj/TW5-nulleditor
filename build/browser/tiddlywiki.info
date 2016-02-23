@@ -1,6 +1,6 @@
 {
 	"plugins": [
-		"bj/nulleditor"
+		"bj/TW5-nulleditor"
 	],
 	"themes": [
 		"tiddlywiki/vanilla",

@@ -1,0 +1,17 @@
+{
+	"plugins": [
+		"tiddlywiki/tiddlyweb",
+		"tiddlywiki/filesystem",
+		"bj/TW5-nulleditor"
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+	"includeWikis": [
+		"../browser"
+	],
+	"config": {
+		"default-tiddler-location": "../browser/tiddlers"
+	}
+}
